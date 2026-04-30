@@ -36,7 +36,7 @@ This project is an automated data pipeline designed to analyze NBA performance t
 * **Scalable SQLite Infrastructure:** Designed a multi-step database architecture (Step 1: Raw Scrapes, Step 2: Processed Scores) to ensure data integrity and prevent redundant network requests.  
 
 
-* **Dynamic Data Normalization:** Developed a to_decimal utility and name_map dictionary that handles the inconsistencies between web-scraped percentages and API-provided team names, ensuring 100% match rates during the modeling phase.  
+* **Dynamic Data Normalization:** Developed a `to_decimal` utility and `name_map` dictionary that handles the inconsistencies between web-scraped percentages and API-provided team names, ensuring 100% match rates during the modeling phase.  
 
 
-* **Time-Zone Aware Automation:** Incorporated pytz for US/Eastern time conversion to ensure the model only pulls and analyzes games scheduled for the current calendar day.
+* **Time-Zone Aware Automation:** Incorporated `pytz` for US/Eastern time conversion to ensure the model only pulls and analyzes games scheduled for the current calendar day.
