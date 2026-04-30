@@ -22,12 +22,12 @@ This project is an automated data pipeline designed to analyze NBA performance t
 
 ## Built With
 
-**Component**	Technology / Library
-**Language**	Python 3.x
-**Development Tools**	Cursor, Claude 3.5 Sonnet, Gemini 1.5 Pro
-**Data Handling**	Pandas, SQLite3, NumPy
-**Web Scraping**	Requests, BeautifulSoup4, LXML
-**Integrations**	The Odds API, Basketball-Reference, ESPN
+* **Component:**	Technology / Library
+* **Language:**	Python 3.x
+* **Development Tools:**	Cursor, Claude 3.5 Sonnet, Gemini 1.5 Pro
+* **Data Handling:**	Pandas, SQLite3, NumPy
+* **Web Scraping:**	Requests, BeautifulSoup4, LXML
+* **Integrations:**	The Odds API, Basketball-Reference, ESPN
 
 ## Key Achievements in Code
 
